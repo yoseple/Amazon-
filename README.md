@@ -1,3 +1,7 @@
+In this project that, I tried to rebuild the Amazon app with the home page with items that you can add to cart and it automatically updates the number of items in the cart. But, also a checkout page with all the items listed and total of all the items. I am currently working on a secure login for this page. This has project is an example of full-stack development as I will use firebase for the database and I have worked with the front end and backend of the website. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
